@@ -1,0 +1,71 @@
+{
+  "retrievedAt": "2026-10-13",
+  "sourcePage": "https://know.tour.go.kr/stat/visitStatDis/table.do",
+  "dataEndpoint": "https://know.tour.go.kr/stat/visitStatDis/statTableData.do",
+  "query": {
+    "searchDateDivision": "C",
+    "searchClass": "A",
+    "searchStartYear": "2025",
+    "searchEndYear": "2025",
+    "searchStartMonth": "01",
+    "searchEndMonth": "12",
+    "searchStartQuarter": "1",
+    "searchEndQuarter": "4",
+    "searchBCType": "",
+    "searchMCType": "",
+    "searchSCType": "",
+    "searchSido": "",
+    "searchGungu": "",
+    "searchSightsNm": ""
+  },
+  "records": [
+    {
+      "name": "고산창포마을",
+      "county": "완주군",
+      "province": "전북특별자치도",
+      "visits": 4791,
+      "type": "합계",
+      "resId": "4571-A-31619"
+    },
+    {
+      "name": "대승한지마을",
+      "county": "완주군",
+      "province": "전북특별자치도",
+      "visits": 8805,
+      "type": "합계",
+      "resId": "4571-A-31617"
+    },
+    {
+      "name": "검마산자연휴양림",
+      "county": "영양군",
+      "province": "경상북도",
+      "visits": 26393,
+      "type": "합계",
+      "resId": "4776-C-13974"
+    },
+    {
+      "name": "지훈문학관",
+      "county": "영양군",
+      "province": "경상북도",
+      "visits": 9342,
+      "type": "합계",
+      "resId": "4776-C-15168"
+    },
+    {
+      "name": "구산 어촌체험 휴양마을",
+      "county": "울진군",
+      "province": "경상북도",
+      "visits": 6740,
+      "type": "합계",
+      "resId": "4793-C-15351"
+    },
+    {
+      "name": "구재봉 자연휴양림",
+      "county": "하동군",
+      "province": "경상남도",
+      "visits": 28605,
+      "type": "합계",
+      "resId": "4885-C-15208"
+    }
+  ]
+}
